@@ -1,0 +1,46 @@
+/* add your CSS here */
+#card {
+    width: 320px;
+    border-color: lightgray;
+    box-shadow: 5px 10px lightgray;
+    border-style: solid;
+    padding: : 5px;
+
+}
+
+.titulo {
+    font-size: 30px;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+.box2{
+    border-spacing: 20px;
+    border-style: solid;
+    border-color: lightgray;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.img{
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+}
+
+.curiosidade{
+    font-style: italic;
+
+}
+
+.detalhes {
+
+
+}
+
+.info{
+
+}
